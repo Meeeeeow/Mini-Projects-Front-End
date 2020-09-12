@@ -1,0 +1,50 @@
+:root{
+    --body-padding:1.2rem;
+}
+html,body{
+    height:100%;
+}
+.container{
+    border: 5px solid #ffcc5c;
+    display:flex;
+    flex-direction: row;/* default */
+    justify-content:flex-start;
+    align-items: flex-end;
+    height: 30%;
+    /* flex-wrap: wrap; */
+}
+ /* .container > div{
+    flex: 1; 
+    flex-grow: 1 ,flex-shrink: 1,flex-basis: 0  
+    width:300px; 
+}   */
+
+.home,.search,.logout,.service{
+    padding:var(--body-padding);
+}
+.home{
+    background-color: brown;
+    /* flex : 1 1 400px; */
+     /* flex-grow: 1;
+     flex-shrink: 6;
+     flex-basis: 400px;  */
+    /*flex-basis: 200px;  base width */
+    /* align-self:flex-end; */
+    order: 3;
+}
+.search{
+    background-color:red;
+    /* margin-right: auto; */
+    order: 2;
+}
+.logout{
+    background-color:hotpink;
+    /* flex: 10 1 400px; */
+    /* align-self: flex-start; */
+    /* flex-grow: 3; */
+    order: -1;
+}
+.service{
+    background-color: rebeccapurple;
+    order: 0;
+}

@@ -1,0 +1,70 @@
+*{
+    box-sizing: border-box;
+    
+}
+html,body{
+    height:100%;
+    
+}
+.container{
+    background-color: honeydew;
+    border:5px solid red;
+    
+}
+.navmenu{
+    
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    
+}
+.search-text{
+    border-style: none ;
+    background-color: honeydew;
+    border-bottom: 2px solid gray;
+    flex:1;
+    width:100%;
+}
+
+@media  screen and (max-width: 768px)
+{
+    .navmenu{
+        flex-wrap:wrap;
+        
+    }
+    .navmenu > li
+    {
+        flex: 1 1 50%;
+    }
+    .search{
+        order: 1;
+    }
+    .search-text{
+        width:60%;
+    }
+}
+@media  screen and (max-width: 576px)
+{
+    .navmenu{
+        flex-wrap:wrap;
+        
+    }
+    .navmenu > li
+    {
+        flex: 1 1 100%;
+    }
+    .search{
+        order: 1;
+    }
+    .search-text{
+        width:30%;
+    }
+}
+@media  screen and (min-width: 768px)
+{
+  .container{
+      width:100%;
+  }
+    
+    
+}
