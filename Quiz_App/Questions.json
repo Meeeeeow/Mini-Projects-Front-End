@@ -1,0 +1,165 @@
+
+{
+    "QuizBeginner": [
+        {
+            "question":"2 + 3 = ?",
+            "a":3,
+            "b":5,
+            "c":4,
+            "d":7,
+            "correctAnswer":5
+        },
+        {
+            "question":"19 - 3 = ?",
+            "a":13,
+            "b":15,
+            "c":16,
+            "d":10,
+            "correctAnswer":16
+        },
+        {
+            "question":"21 * 4 = ?",
+            "a":42,
+            "b":84,
+            "c":66,
+            "d":40,
+            "correctAnswer":84
+        },
+        {
+            "question":"100 - 0 = ?",
+            "a":90,
+            "b":80,
+            "c":0,
+            "d":100,
+            "correctAnswer":100
+        },
+        {
+            "question":"15 * 4 = ?",
+            "a":45,
+            "b":60,
+            "c":75,
+            "d":15,
+            "correctAnswer":60
+        },
+        {
+            "question":"How many vertices does a square have?",
+            "a":3,
+            "b":4,
+            "c":1,
+            "d":2,
+            "correctAnswer":4
+        },
+        {
+            "question":"(-1  *  -2) + (-3) = ?",
+            "a":0,
+            "b":1,
+            "c":-1,
+            "d":2,
+            "correctAnswer":-1
+        },
+        {
+            "question":"1 + 1 * 0 + 1= ?",
+            "a":1,
+            "b":0,
+            "c":3,
+            "d":2,
+            "correctAnswer":2
+        },
+        {
+            "question":"5 / (1 / 5) = ?",
+            "a":1,
+            "b":25,
+            "c":5,
+            "d":30,
+            "correctAnswer":25
+        },
+        {
+            "question":"Probablity of getting a heads in a coin is ",
+            "a":1,
+            "b":0,
+            "c":0.5,
+            "d":-1,
+            "correctAnswer":0.5
+        },
+        {
+            "question":"There are 5 sparrows on a tree.A cat jumped at one of them.Sparrows left ",
+            "a":4,
+            "b":3,
+            "c":1,
+            "d":0,
+            "correctAnswer":0
+        },
+        {
+            "question":"What is the probablity of getting this answer correct?",
+            "a":0.5,
+            "b":1,
+            "c":0.20,
+            "d":0.25,
+            "correctAnswer":0.25
+        },
+        {
+            "question":"Kazuhito is 24 years old.6 years from now he will be a grown up person.What will be his age?",
+            "a":29,
+            "b":30,
+            "c":32,
+            "d":33,
+            "correctAnswer":30
+        },
+        {
+            "question":"6 / 2 * (1 + 2) = ?",
+            "a":1,
+            "b":9,
+            "c":6,
+            "d":12,
+            "correctAnswer":9
+        },
+        {
+            "question":"If sin&theta; + cos&theta; = 1 what is the value of &theta;?",
+            "a":1,
+            "b":2,
+            "c":0,
+            "d":4,
+            "correctAnswer":0
+        },
+        {
+            "question":"Which nubmer is equivalent to 3&sup3 / 3&sup2 ?",
+            "a":27,
+            "b":81,
+            "c":3,
+            "d":9,
+            "correctAnswer":3
+        },
+        {
+            "question":"200 % 10 = ?",
+            "a":20,
+            "b":0,
+            "c":10,
+            "d":25,
+            "correctAnswer":0
+        },
+        {
+            "question":"Lowest range of value in sin & cos",
+            "a":-1,
+            "b":0,
+            "c":"Infinity",
+            "d":1,
+            "correctAnswer":-1
+        },
+        {
+            "question":"ln1 = ?",
+            "a":1,
+            "b":"ln1",
+            "c":2,
+            "d":0,
+            "correctAnswer":0
+        },
+        {
+            "question":"(a+b)&sup2 = ? where a = 2, b = 3",
+            "a":10,
+            "b":30,
+            "c":25,
+            "d":22,
+            "correctAnswer":25
+        }
+    ]
+}
