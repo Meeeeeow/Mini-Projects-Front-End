@@ -101,7 +101,7 @@ section{
     display: flex;
     justify-content: center;
     align-items: flex-end;
-    background: url(../images/subaru.jpg) no-repeat;
+    background: url(../images/self1.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-color: #34495e;
@@ -172,8 +172,9 @@ section{
 .timeline
 {
     margin-top:50px;
-    display:flex;
+    display:grid;
     justify-content: space-evenly; 
+    grid-template-columns: 1fr 1fr 1fr;
 }
 .timeline .col{
     margin: 5px;
@@ -192,7 +193,7 @@ section{
 .service{
     width:60%;
     margin:0 auto;
-    padding:50px 0;
+    padding:30px 0;
     text-align: center;
     z-index:99;
 
