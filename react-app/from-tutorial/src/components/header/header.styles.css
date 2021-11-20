@@ -1,0 +1,32 @@
+.logo{
+    width:60px;
+    margin-left: 20px ;
+    float:left;
+}
+.icons{
+    clear:both;
+    float:none;
+    content:"";
+    display:table;
+    width:100%;
+}
+.react-logo{
+    height:60px;
+    vertical-align: middle;
+}
+.text-right::after{
+    clear:both;
+    content:"";
+    float:none;
+}
+strong{
+    margin-left:8px;
+}
+.header-container{
+    margin-top:30px;
+    margin-bottom: 20px;
+}
+.text-right{
+    margin-right:20px;
+
+}

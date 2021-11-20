@@ -1,0 +1,6 @@
+@media only screen and (max-width: 767.99px) {
+    .ice-cream-container {
+      flex-direction: column;
+    }
+  }
+  
